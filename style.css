@@ -21,6 +21,10 @@ body {
     transition: background 1s ease-in-out;
 }
 
+#cabecalho {
+    margin-bottom: 200px;
+}
+
 #mudar-tema {
     position: absolute;
     top: 4%;
